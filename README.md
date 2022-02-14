@@ -17,12 +17,9 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 # February 25
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
-------------------------------------
-|              |               |         |             |
 |--------------|---------------|---------|-------------|
 
 # February 26
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
-|              |     |         |             |
 |--------------|---------------|---------|-------------|
