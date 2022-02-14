@@ -4,7 +4,7 @@
 - Focused on pragmatic solutions for developers.
 - Great content and amazing experience.
 
-Below you will find the slides of most presentations given at ConFoo 2020.
+Below you will find the slides of most presentations given at ConFoo 2022.
 
 Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
