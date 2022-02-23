@@ -13,6 +13,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Slides  | Code Sample |
 |--------------|---------------|---------|-------------|
+| Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
 | Getting Started with Unit Testing | K. Devin McIntyre | [Slides](20220223/Getting-Started-with-Unit-Testing.pdf) | [Code Sample](https://github.com/miyasudokoro/web-component-demo) |
 
 # February 24
