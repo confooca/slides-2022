@@ -9,17 +9,18 @@ Below you will find the slides of most presentations given at ConFoo 2022.
 Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 
+# February 23
+
+| Presentation | Speaker Name  | Slides  | Code Sample |
+|--------------|---------------|---------|-------------|
+| Getting Started with Unit Testing | K. Devin McIntyre | [Slides](20220223/Getting-Started-with-Unit-Testing.pdf) | [Code Sample](https://github.com/miyasudokoro/web-component-demo) |
+
 # February 24
 
-| Presentation | Speaker Name  | Sides   | Code Sample |
+| Presentation | Speaker Name  | Slides  | Code Sample |
 |--------------|---------------|---------|-------------|
 
 # February 25
 
-| Presentation | Speaker Name  | Sides   | Code Sample |
-|--------------|---------------|---------|-------------|
-
-# February 26
-
-| Presentation | Speaker Name  | Sides   | Code Sample |
+| Presentation | Speaker Name  | Slides  | Code Sample |
 |--------------|---------------|---------|-------------|
