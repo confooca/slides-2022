@@ -9,17 +9,19 @@ Below you will find the slides of most presentations given at ConFoo 2022.
 Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 
+# February 23
+
+| Presentation | Speaker Name  | Sides   | Code Sample |
+|--------------|---------------|---------|-------------|
+| Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
+
+
 # February 24
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
 
 # February 25
-
-| Presentation | Speaker Name  | Sides   | Code Sample |
-|--------------|---------------|---------|-------------|
-
-# February 26
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
