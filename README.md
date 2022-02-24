@@ -13,6 +13,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Running and Extending Keycloak for Your Identity Needs | Alex Gervais  | [Slides](20220223/running_and_extending_keycloak_for_your_identity_needs-alex_gervais.pdf)   |  |
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
 
 
