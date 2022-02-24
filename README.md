@@ -14,6 +14,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
+| GraphQL: Thinking in Resolvers | Sébastien Lavoie-Courchesne | [Slides](20220223/graphql_thinking_in_resolvers.pdf) | [Code Sample](https://github.com/lavoiecsh/presentations/tree/main/confoo-2022/graphql-thinking-in-resolvers) |
 
 
 # February 24
