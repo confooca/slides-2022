@@ -20,6 +20,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| L'infrastucture as code pour les développeurs | Tidjani Belmansour  | [Slides](20220224/confoo2022-iac4devs-tidjanib.pdf)   | [Code Sample](https://github.com/BelRarr/confoo2022-iac4devs) |
 
 # February 25
 
