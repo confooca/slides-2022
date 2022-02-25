@@ -13,14 +13,15 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
-| Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](2022-02-23/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
-| Applied Domain-Driven Design Blueprints for Jakarta EE | Reza Rahman  | [Slides](2022-02-23/applied_domain_driven_design_blueprints_for_jakarta_ee-reza_rahman.pdf.pdf)   | [Code Sample](https://github.com/eclipse-ee4j/cargotracker) |
+| Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte | [Slides](2022-02-23/azure_time_series-sam-vanhoutte.pdf) | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
+| Applied Domain-Driven Design Blueprints for Jakarta EE | Reza Rahman | [Slides](2022-02-23/applied_domain_driven_design_blueprints_for_jakarta_ee-reza_rahman.pdf.pdf) | [Code Sample](https://github.com/eclipse-ee4j/cargotracker) |
 
 
 # February 24
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Powering Java on Azure with Open Liberty and OpenShift | Reza Rahman | N/A | [Code Sample](https://github.com/Azure-Samples/open-liberty-on-aro) |
 
 # February 25
 
