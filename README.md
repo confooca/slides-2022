@@ -14,7 +14,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
-| Tests d'acceptation automatisés avec Specflow | Francis Gauthier  | [Slides](20220223/Tests_acceptation_automatises_avec_Specflow.fgauthier.pdf)   | [Code Sample](https://github.com/FrancisGauthier/confoo2022) |
+| Tests d'acceptation automatisés avec Specflow | Francis Gauthier  | [Slides](20220223/Tests_acceptation_automatises_avec_Specflow-Francis_Gauthier.pdf)   | [Code Sample](https://github.com/FrancisGauthier/confoo2022) |
 
 
 # February 24
