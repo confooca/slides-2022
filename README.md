@@ -25,3 +25,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| The Effective Developer | Sven Peters | [Slides](20220225/theEffectiveDeveloper_SvenPeters.pdf) | |
