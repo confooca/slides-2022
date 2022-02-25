@@ -26,3 +26,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Des secrets bien gardés ! | Tidjani Belmansour  | [Slides](20220225/confoo2022-secretlessapps-tidjanib.pdf)   | Tout est dans le PDF ! |
