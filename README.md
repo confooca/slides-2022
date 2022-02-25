@@ -20,8 +20,10 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| RxJS with React | Adam L Barrett  | [Slides](20220223/RxJS with React-Adam L Barrett.pdf)   | |
 
 # February 25
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Astro and the Islands Architecture | Adam L Barrett  | [Slides](20220223/Astro and the Islands Architecture-Adam L Barrett.pdf)   | |
