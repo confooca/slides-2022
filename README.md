@@ -20,8 +20,10 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| The Best Time to Start Continuous Delivery is Now | Josh Reed | [Slides](20220224/the-best-time-to-start-continuous-delivery-is-now.pdf) | |
 
 # February 25
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Using Immutable Data with Python | Josh Reed | [Slides](20220225/using-immutable-data-with-python.pdf) | |
