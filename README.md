@@ -25,3 +25,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Preventing and dealing with career-ending injuries | [Marc-Antoine Aubé](https://twitter.com/maaube) | [Slides](https://speakerdeck.com/marcaube/preventing-and-dealing-with-career-ending-injuries-confoo-2022) | - |
