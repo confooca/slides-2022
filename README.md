@@ -20,8 +20,10 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Build breakers, not gatekeepers | Michiel Rook | [Slides](20220224/build_breakers_not_gatekeepers-michiel_rook.pdf) |  |
 
 # February 25
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Congratulations, you failed! | Michiel Rook | [Slides](20220225/congratulations_you_failed-michiel_rook.pdf) | |
