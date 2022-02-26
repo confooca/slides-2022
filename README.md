@@ -20,8 +20,10 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Techniques to become and effective agent of change | Jeremy Cook | [Slides](20220224/Techniques_to_become_an_effective_agent_of_change-Jeremy_Cook.pdf)   |  |
 
 # February 25
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Dispelling the myth of code coverage | Jeremy Cook | [Slides](20220225/Dispelling_the_myth_of_code_coverage-Jeremy_Cook.pdf)   |  |
