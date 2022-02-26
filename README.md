@@ -25,3 +25,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Evolving your APIs, a step-by-step approach | [Nicolas Fränkel](https://twitter.com/nicolas_frankel)  | [Slides](20220225/evolve_apis_nicolas_frankel.pdf) | [Code Sample](https://github.com/nfrankel/evolve-apis/) |
