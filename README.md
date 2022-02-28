@@ -20,6 +20,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| L'analytique embarqué avec des technologies data modernes | François Vienneau Binette | [Slides](20220224/analytique_embarque_technologies_modernes-francois_vienneau_binette.pdf) |   |
 
 # February 25
 
