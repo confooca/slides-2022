@@ -34,6 +34,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 # February 25
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| The Effective Developer | Sven Peters | [Slides](20220225/theEffectiveDeveloper_SvenPeters.pdf) | 
 | Congratulations, you failed! | Michiel Rook | [Slides](20220225/congratulations_you_failed-michiel_rook.pdf) | 
 | Using Immutable Data with Python | Josh Reed | [Slides](20220225/using-immutable-data-with-python.pdf) | 
 | Astro and the Islands Architecture | Adam L Barrett  | [Slides](./20220223/Astro and the Islands Architecture-Adam L Barrett.pdf)   | 
