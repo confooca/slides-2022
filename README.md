@@ -17,7 +17,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Database Reliability Engineering for MySQL | Matthias Crauwels | [Slides](20220223/ConFoo_2022_Database_reliability_engineering_for_MySQL.pdf) | 
 | Using Symfony components standalone in any project | David Buchmann | [Slides](20220223/20220223/symfony_components_standalone-david_buchmann.html) | 
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte | [Slides](2022-02-23/azure_time_series-sam-vanhoutte.pdf) | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
-| Applied Domain-Driven Design Blueprints for Jakarta EE | Reza Rahman | [Slides](2022-02-23/applied_domain_driven_design_blueprints_for_jakarta_ee-reza_rahman.pdf.pdf) | [Code Sample](https://github.com/eclipse-ee4j/cargotracker) |
+| Applied Domain-Driven Design Blueprints for Jakarta EE | Reza Rahman | [Slides](2022-02-23/applied_domain_driven_design_blueprints_for_jakarta_ee-reza_rahman.pdf) | [Code Sample](https://github.com/eclipse-ee4j/cargotracker) |
 
 
 # February 24
