@@ -16,6 +16,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Deploying IPv6 | Marcus Bointon | [Slides](20220223/Marcus%20Bointon%20–%20Deploying%20IPv6.pdf) | 
 | Running and Extending Keycloak for Your Identity Needs | Alex Gervais  | [Slides](20220223/running_and_extending_keycloak_for_your_identity_needs-alex_gervais.pdf)   |  |
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
+| GraphQL: Thinking in Resolvers | Sébastien Lavoie-Courchesne | [Slides](20220223/graphql_thinking_in_resolvers.pdf) | [Code Sample](https://github.com/lavoiecsh/presentations/tree/main/confoo-2022/graphql-thinking-in-resolvers) |
 | Database Reliability Engineering for MySQL | Matthias Crauwels | [Slides](20220223/ConFoo_2022_Database_reliability_engineering_for_MySQL.pdf) | 
 | Using Symfony components standalone in any project | David Buchmann | [Slides](20220223/20220223/symfony_components_standalone-david_buchmann.html) | 
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte | [Slides](2022-02-23/azure_time_series-sam-vanhoutte.pdf) | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
