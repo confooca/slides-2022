@@ -13,13 +13,15 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
+| Using Symfony components standalone in any project | David Buchmann | [Slides](20220223/20220223/symfony_components_standalone-david_buchmann.html) | 
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte | [Slides](2022-02-23/azure_time_series-sam-vanhoutte.pdf) | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
 | Applied Domain-Driven Design Blueprints for Jakarta EE | Reza Rahman | [Slides](2022-02-23/applied_domain_driven_design_blueprints_for_jakarta_ee-reza_rahman.pdf.pdf) | [Code Sample](https://github.com/eclipse-ee4j/cargotracker) |
-
 
 # February 24
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Symfony routing under the hood | David Buchmann | [Slides](2022-02-24/symfony_routing-david_buchmann.html) | 
 | L'infrastucture as code pour les développeurs | Tidjani Belmansour  | [Slides](20220224/confoo2022-iac4devs-tidjanib.pdf)   | [Code Sample](https://github.com/BelRarr/confoo2022-iac4devs) |
 | Powering Java on Azure with Open Liberty and OpenShift | Reza Rahman | N/A | [Code Sample](https://github.com/Azure-Samples/open-liberty-on-aro) |
 | Build breakers, not gatekeepers | Michiel Rook | [Slides](20220224/build_breakers_not_gatekeepers-michiel_rook.pdf) | 
