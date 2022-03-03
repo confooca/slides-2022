@@ -12,12 +12,12 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation                                                | Speaker Name  | Sides                                                                                  | Code Sample                                                      |
 | ----------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Create Smart Angular Apps Using Azure Computer Vision       | Ankit Sharma  | [Slides](20220223/Smart_Angular_App-Ankit-Sharma.pdf)  | [Code Sample](https://github.com/AnkitSharma-007/Smart-Angular-App-Using-Azure-Cognitive-Services) |
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)                                 | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
 | Building a strong and explicit engineering culture          | Rémi Prévost  | [Slides](20220223/building_a_strong_and_explicit_engineering_culture-rémi_prévost.pdf) |                                                                  |
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
 | Tests d'acceptation automatisés avec Specflow | Francis Gauthier  | [Slides](20220223/Tests_acceptation_automatises_avec_Specflow-Francis_Gauthier.pdf)   | [Code Sample](https://github.com/FrancisGauthier/confoo2022) |
 | Getting Started with Unit Testing | K. Devin McIntyre | [Slides](20220223/Getting-Started-with-Unit-Testing-K-Devin-McIntyre.pdf) | [Code Sample](https://github.com/miyasudokoro/web-component-demo) |
-
 
 # February 24
 | Presentation | Speaker Name  | Sides                                                          | Code Sample |
@@ -36,6 +36,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 # February 24
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Internationalization in Angular | Ankit Sharma | [Slides](20220225/Angular_i18n-Ankit-Sharma.pdf) | [Code Sample](https://github.com/AnkitSharma-007/angular-localization) |
 | Getting started with InnoDB Cluster in MySQL 8 | Matthias Crauwels | [Slides](20220224/ConFoo_2022_Getting_started_with_InnoDB_cluster_in_MySQL_8.pdf) | [demo recording](https://tinyurl.com/4ef4842v) |
 | Symfony routing under the hood | David Buchmann | [Slides](2022-02-24/symfony_routing-david_buchmann.html) | 
 | L'infrastucture as code pour les développeurs | Tidjani Belmansour  | [Slides](20220224/confoo2022-iac4devs-tidjanib.pdf)   | [Code Sample](https://github.com/BelRarr/confoo2022-iac4devs) |
