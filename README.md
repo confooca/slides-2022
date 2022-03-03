@@ -28,4 +28,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Evolving your APIs, a step-by-step approach | [Nicolas Fränkel](https://twitter.com/nicolas_frankel)  | [Slides](20220225/evolve_apis_nicolas_frankel.pdf) | [Code Sample](https://github.com/nfrankel/evolve-apis/) |
 | Pouring Coffee into the Matrix - Java Applications on Neo4j | Jennifer Reif  | [Slides](20220225/pouring_coffee_into_matrix-Jennifer_Reif.pdf)   | [Code Sample](https://github.com/JMHReif/pouring-coffee-into-matrix-lombok) |
