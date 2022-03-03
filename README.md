@@ -10,6 +10,12 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 
 # February 23
+| Presentation | Speaker Name  | Slides  | Code Sample |
+|--------------|---------------|---------|-------------|
+| Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
+| Getting Started with Unit Testing | K. Devin McIntyre | [Slides](20220223/Getting-Started-with-Unit-Testing-K-Devin-McIntyre.pdf) | [Code Sample](https://github.com/miyasudokoro/web-component-demo) |
+
+# February 24
 | Presentation | Speaker Name  | Sides                                                          | Code Sample |
 |--------------|---------------|----------------------------------------------------------------|-------------|
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)         | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
@@ -40,8 +46,10 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Cypher Sleuthing: Tips and Tricks for Querying a Graph | Jennifer Reif  | [Slides](20220224/cypher_sleuthing-Jennifer_Reif.pdf)   | [Code Sample](https://github.com/JMHReif/cypher-sleuthing) |
 
 # February 25
-| Presentation | Speaker Name  | Sides   | Code Sample |
+| Presentation | Speaker Name  | Slides  | Code Sample |
 |--------------|---------------|---------|-------------|
+| Vanilla JS Web Components | K. Devin McIntyre | [Slides](20220225/Vanilla-JS-Web-Components-K-Devin-McIntyre.pdf) | [Code Sample](https://github.com/miyasudokoro/web-component-demo) |
+| Pouring Coffee into the Matrix - Java Applications on Neo4j | Jennifer Reif  | [Slides](20220225/pouring_coffee_into_matrix-Jennifer_Reif.pdf)   | [Code Sample](https://github.com/JMHReif/pouring-coffee-into-matrix-lombok) |
 | Des secrets bien gardés ! | Tidjani Belmansour  | [Slides](20220225/confoo2022-secretlessapps-tidjanib.pdf)   | Tout est dans le PDF ! |
 | The Effective Developer | Sven Peters | [Slides](20220225/theEffectiveDeveloper_SvenPeters.pdf) | 
 | Congratulations, you failed! | Michiel Rook | [Slides](20220225/congratulations_you_failed-michiel_rook.pdf) | 
