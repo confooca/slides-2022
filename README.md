@@ -20,9 +20,11 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Slides  | Code Sample |
 |--------------|---------------|---------|-------------|
+| Cypher Sleuthing: Tips and Tricks for Querying a Graph | Jennifer Reif  | [Slides](20220224/cypher_sleuthing-Jennifer_Reif.pdf)   | [Code Sample](https://github.com/JMHReif/cypher-sleuthing) |
 
 # February 25
 
 | Presentation | Speaker Name  | Slides  | Code Sample |
 |--------------|---------------|---------|-------------|
 | Vanilla JS Web Components | K. Devin McIntyre | [Slides](20220225/Vanilla-JS-Web-Components-K-Devin-McIntyre.pdf) | [Code Sample](https://github.com/miyasudokoro/web-component-demo) |
+| Pouring Coffee into the Matrix - Java Applications on Neo4j | Jennifer Reif  | [Slides](20220225/pouring_coffee_into_matrix-Jennifer_Reif.pdf)   | [Code Sample](https://github.com/JMHReif/pouring-coffee-into-matrix-lombok) |
