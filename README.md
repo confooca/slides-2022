@@ -30,7 +30,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Preventing and dealing with career-ending injuries | [Marc-Antoine Aubé](https://twitter.com/maaube) | [Slides](https://speakerdeck.com/marcaube/preventing-and-dealing-with-career-ending-injuries-confoo-2022) | 
 | Give Kotlin the Boot? | Mark Heckler | ./20220225/GiveKotlinTheBoot-MarkHeckler.pdf | https://github.com/mkheck/give-kotlin-the-boot |
-| Dispelling the myth of code coverage | Jeremy Cook | [Slides](20220225/Dispelling_the_myth_of_code_coverage-Jeremy_Cook.pdf)   |  |
+| Dispelling the myth of code coverage | Jeremy Cook | [Slides](20220225/Dispelling_the_myth_of_code_coverage-Jeremy_Cook.pdf)   | 
 | Evolving your APIs, a step-by-step approach | [Nicolas Fränkel](https://twitter.com/nicolas_frankel)  | [Slides](20220225/evolve_apis_nicolas_frankel.pdf) | [Code Sample](https://github.com/nfrankel/evolve-apis/) |
 | Pouring Coffee into the Matrix - Java Applications on Neo4j | Jennifer Reif  | [Slides](20220225/pouring_coffee_into_matrix-Jennifer_Reif.pdf)   |
