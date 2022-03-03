@@ -17,9 +17,11 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 
 # February 24
-| Presentation           | Speaker Name  | Sides                                                                  | Code Sample |
-|------------------------|---------------|------------------------------------------------------------------------|-------------|
-| Hansel & Gretel do TLS | Marcus Bointon | [Slides](20220223/Marcus%20Bointon%20–%20Hansel%20%26%20Gretel%20do%20TLS.pdf) | – |
+
+| Presentation | Speaker Name  | Sides   | Code Sample |
+|--------------|---------------|---------|-------------|
+| L'analytique embarqué avec des technologies data modernes | François Vienneau Binette | [Slides](20220224/analytique_embarque_technologies_modernes-francois_vienneau_binette.pdf) |   
+| Hansel & Gretel do TLS | Marcus Bointon | [Slides](20220223/Marcus%20Bointon%20–%20Hansel%20%26%20Gretel%20do%20TLS.pdf) | 
 | Cypher Sleuthing: Tips and Tricks for Querying a Graph | Jennifer Reif  | [Slides](20220224/cypher_sleuthing-Jennifer_Reif.pdf)   | [Code Sample](https://github.com/JMHReif/cypher-sleuthing) |
 
 # February 25
