@@ -20,6 +20,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Techniques to become and effective agent of change | Jeremy Cook | [Slides](20220224/Techniques_to_become_an_effective_agent_of_change-Jeremy_Cook.pdf)   | 
 | L'analytique embarqué avec des technologies data modernes | François Vienneau Binette | [Slides](20220224/analytique_embarque_technologies_modernes-francois_vienneau_binette.pdf) |   
 | Hansel & Gretel do TLS | Marcus Bointon | [Slides](20220223/Marcus%20Bointon%20–%20Hansel%20%26%20Gretel%20do%20TLS.pdf) | 
 | Cypher Sleuthing: Tips and Tricks for Querying a Graph | Jennifer Reif  | [Slides](20220224/cypher_sleuthing-Jennifer_Reif.pdf)   | [Code Sample](https://github.com/JMHReif/cypher-sleuthing) |
@@ -28,5 +29,6 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation | Speaker Name  | Sides   | Code Sample |
 |--------------|---------------|---------|-------------|
+| Dispelling the myth of code coverage | Jeremy Cook | [Slides](20220225/Dispelling_the_myth_of_code_coverage-Jeremy_Cook.pdf)   |  |
 | Evolving your APIs, a step-by-step approach | [Nicolas Fränkel](https://twitter.com/nicolas_frankel)  | [Slides](20220225/evolve_apis_nicolas_frankel.pdf) | [Code Sample](https://github.com/nfrankel/evolve-apis/) |
-| Pouring Coffee into the Matrix - Java Applications on Neo4j | Jennifer Reif  | [Slides](20220225/pouring_coffee_into_matrix-Jennifer_Reif.pdf)   | [Code Sample](https://github.com/JMHReif/pouring-coffee-into-matrix-lombok) |
+| Pouring Coffee into the Matrix - Java Applications on Neo4j | Jennifer Reif  | [Slides](20220225/pouring_coffee_into_matrix-Jennifer_Reif.pdf)   |
