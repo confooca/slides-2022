@@ -59,9 +59,9 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | The Effective Developer | Sven Peters | [Slides](20220225/theEffectiveDeveloper_SvenPeters.pdf) | 
 | Congratulations, you failed! | Michiel Rook | [Slides](20220225/congratulations_you_failed-michiel_rook.pdf) | 
 | Using Immutable Data with Python | Josh Reed | [Slides](20220225/using-immutable-data-with-python.pdf) | 
-| Astro and the Islands Architecture | Adam L Barrett  | [Slides](./20220223/Astro and the Islands Architecture-Adam L Barrett.pdf)   | 
+| Astro and the Islands Architecture | Adam L Barrett  | [Slides](20220223/Astro_and_the_Islands_Architecture-Adam_L_Barrett.pdf)   | 
 | Preventing and dealing with career-ending injuries | [Marc-Antoine Aubé](https://twitter.com/maaube) | [Slides](https://speakerdeck.com/marcaube/preventing-and-dealing-with-career-ending-injuries-confoo-2022) | 
-| Give Kotlin the Boot? | Mark Heckler | ./20220225/GiveKotlinTheBoot-MarkHeckler.pdf | https://github.com/mkheck/give-kotlin-the-boot |
+| Give Kotlin the Boot? | Mark Heckler | [Slides](/20220225/GiveKotlinTheBoot-MarkHeckler.pdf) | [Code Sample](https://github.com/mkheck/give-kotlin-the-boot) |
 | Dispelling the myth of code coverage | Jeremy Cook | [Slides](20220225/Dispelling_the_myth_of_code_coverage-Jeremy_Cook.pdf)   | 
 | Evolving your APIs, a step-by-step approach | [Nicolas Fränkel](https://twitter.com/nicolas_frankel)  | [Slides](20220225/evolve_apis_nicolas_frankel.pdf) | [Code Sample](https://github.com/nfrankel/evolve-apis/) |
 | Pouring Coffee into the Matrix - Java Applications on Neo4j | Jennifer Reif  | [Slides](20220225/pouring_coffee_into_matrix-Jennifer_Reif.pdf)   |
