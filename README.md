@@ -18,6 +18,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte  | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)   | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
 | Tests d'acceptation automatisés avec Specflow | Francis Gauthier  | [Slides](20220223/Tests_acceptation_automatises_avec_Specflow-Francis_Gauthier.pdf)   | [Code Sample](https://github.com/FrancisGauthier/confoo2022) |
 | Getting Started with Unit Testing | K. Devin McIntyre | [Slides](20220223/Getting-Started-with-Unit-Testing-K-Devin-McIntyre.pdf) | [Code Sample](https://github.com/miyasudokoro/web-component-demo) |
+| AssertTrue(isDecoupled("MyTests")) | Dave Liddament | [Slides](20220223/AssertTrue_isDecoupled_myTests-dave_liddament.pdf) | |
 
 # February 24
 | Presentation | Speaker Name  | Sides                                                          | Code Sample |
@@ -65,3 +66,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Dispelling the myth of code coverage | Jeremy Cook | [Slides](20220225/Dispelling_the_myth_of_code_coverage-Jeremy_Cook.pdf)   | 
 | Evolving your APIs, a step-by-step approach | [Nicolas Fränkel](https://twitter.com/nicolas_frankel)  | [Slides](20220225/evolve_apis_nicolas_frankel.pdf) | [Code Sample](https://github.com/nfrankel/evolve-apis/) |
 | Pouring Coffee into the Matrix - Java Applications on Neo4j | Jennifer Reif  | [Slides](20220225/pouring_coffee_into_matrix-Jennifer_Reif.pdf)   |
+| PHP Generics Today (Almost) | Dave Liddament | [Slides](20220225/PHP_generics_today_almost-dave_liddament.pdf) | | 
