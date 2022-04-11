@@ -69,3 +69,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Evolving your APIs, a step-by-step approach | [Nicolas Fränkel](https://twitter.com/nicolas_frankel)  | [Slides](20220225/evolve_apis_nicolas_frankel.pdf) | [Code Sample](https://github.com/nfrankel/evolve-apis/) |
 | Pouring Coffee into the Matrix - Java Applications on Neo4j | Jennifer Reif  | [Slides](20220225/pouring_coffee_into_matrix-Jennifer_Reif.pdf)   |
 | PHP Generics Today (Almost) | Dave Liddament | [Slides](20220225/PHP_generics_today_almost-dave_liddament.pdf) | | 
+| Faites du compilateur TypeScript votre meilleur ami | Benoit Lemoine | [Slides](20220225/faites_du_compilateur_typescript_votre_meilleur_ami-Benoit_Lemoine.pdf) | |
