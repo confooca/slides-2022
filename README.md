@@ -20,6 +20,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Getting Started with Unit Testing | K. Devin McIntyre | [Slides](20220223/Getting-Started-with-Unit-Testing-K-Devin-McIntyre.pdf) | [Code Sample](https://github.com/miyasudokoro/web-component-demo) |
 | Responsive Web Apps for the Busy Developer | Simon MacDonald | [Slides](20220223/Responsive_web_apps_for_the_busy_developer-Simon_MacDonald.pdf) | 
 | AssertTrue(isDecoupled("MyTests")) | Dave Liddament | [Slides](20220223/AssertTrue_isDecoupled_myTests-dave_liddament.pdf) | 
+| How We Introduced Automated Web App Testing in A Large Org | Gleb Bahmutov | [Slides](https://slides.com/bahmutov/testing-large-org) |
 
 
 # February 24
@@ -34,6 +35,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Using Symfony components standalone in any project | David Buchmann | [Slides](20220223/20220223/symfony_components_standalone-david_buchmann.html) |
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte | [Slides](2022-02-23/azure_time_series-sam-vanhoutte.pdf) | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
 | Applied Domain-Driven Design Blueprints for Jakarta EE | Reza Rahman | [Slides](2022-02-23/applied_domain_driven_design_blueprints_for_jakarta_ee-reza_rahman.pdf) | [Code Sample](https://github.com/eclipse-ee4j/cargotracker) |
+| No More CSS Regrets, ... I mean Regressions | Gleb Bahmutov | [Slides](https://slides.com/bahmutov/no-more-css-regrets) |
 
 
 # February 24
