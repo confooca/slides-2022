@@ -12,6 +12,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation                                                | Speaker Name  | Sides                                                                                  | Code Sample                                                      |
 | ----------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Les 24 prochains mois | Martin Gagnon | [Slides](20220223/Les_24_prochains_mois_-_Martin_Gagnon.pdf) | |
 | Create Smart Angular Apps Using Azure Computer Vision       | Ankit Sharma  | [Slides](20220223/Smart_Angular_App-Ankit-Sharma.pdf)  | [Code Sample](https://github.com/AnkitSharma-007/Smart-Angular-App-Using-Azure-Cognitive-Services) |
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte | [Slides](20220223/azure_time_series-sam-vanhoutte.pdf)                                 | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
 | Building a strong and explicit engineering culture          | Rémi Prévost  | [Slides](20220223/building_a_strong_and_explicit_engineering_culture-r%C3%A9mi_pr%C3%A9vost.pdf) |                                                                  |
@@ -73,3 +74,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Pouring Coffee into the Matrix - Java Applications on Neo4j | Jennifer Reif  | [Slides](20220225/pouring_coffee_into_matrix-Jennifer_Reif.pdf)   |
 | PHP Generics Today (Almost) | Dave Liddament | [Slides](20220225/PHP_generics_today_almost-dave_liddament.pdf) | | 
 | Faites du compilateur TypeScript votre meilleur ami | Benoit Lemoine | [Slides](20220225/faites_du_compilateur_typescript_votre_meilleur_ami-Benoit_Lemoine.pdf) | |
+| Partager du code entre le web et le mobile | Martin Gagnon | [Slides](20220225/Partager_du_code_entre_le_web_et_le_mobile_-_Martin_Gagnon.pdf) | |
