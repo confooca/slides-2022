@@ -22,6 +22,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Responsive Web Apps for the Busy Developer | Simon MacDonald | [Slides](20220223/Responsive_web_apps_for_the_busy_developer-Simon_MacDonald.pdf) | 
 | AssertTrue(isDecoupled("MyTests")) | Dave Liddament | [Slides](20220223/AssertTrue_isDecoupled_myTests-dave_liddament.pdf) | 
 | How We Introduced Automated Web App Testing in A Large Org | Gleb Bahmutov | [Slides](https://slides.com/bahmutov/testing-large-org) |
+| Real-life Database Indexing | Christophe Pettus | [Slides](20220223/database_indexing-christophe_pettus.pdf) |
 
 
 # February 24
