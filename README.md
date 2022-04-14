@@ -37,7 +37,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Time traveling in the cloud. Time series analytics in Azure | Sam Vanhoutte | [Slides](2022-02-23/azure_time_series-sam-vanhoutte.pdf) | [Code Sample](https://github.com/samvanhoutte/azure-time-travel) |
 | Applied Domain-Driven Design Blueprints for Jakarta EE | Reza Rahman | [Slides](2022-02-23/applied_domain_driven_design_blueprints_for_jakarta_ee-reza_rahman.pdf) | [Code Sample](https://github.com/eclipse-ee4j/cargotracker) |
 | No More CSS Regrets, ... I mean Regressions | Gleb Bahmutov | [Slides](https://slides.com/bahmutov/no-more-css-regrets) |
-
+| The Future of .NET - Really... | Bill Penberthy  | [Slides](20220223/FutureOfDotNet - Bill Penberthy.pdf) |       
 
 # February 24
 | Presentation | Speaker Name  | Sides   | Code Sample |
@@ -75,3 +75,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | PHP Generics Today (Almost) | Dave Liddament | [Slides](20220225/PHP_generics_today_almost-dave_liddament.pdf) | | 
 | Faites du compilateur TypeScript votre meilleur ami | Benoit Lemoine | [Slides](20220225/faites_du_compilateur_typescript_votre_meilleur_ami-Benoit_Lemoine.pdf) | |
 | Partager du code entre le web et le mobile | Martin Gagnon | [Slides](20220225/Partager_du_code_entre_le_web_et_le_mobile_-_Martin_Gagnon.pdf) | |
+| Azure, AWS, and GCP, oh myy. Which cloud is right for you? | Bill Penberthy | [Slides](20220225/Azure-AWS-GCP_WhichCloudIsRightForYou - Bill Penberthy.pdf) | |
