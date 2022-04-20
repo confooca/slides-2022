@@ -52,6 +52,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Hansel & Gretel do TLS | Marcus Bointon | [Slides](20220223/Marcus%20Bointon%20–%20Hansel%20%26%20Gretel%20do%20TLS.pdf) |
 | Cypher Sleuthing: Tips and Tricks for Querying a Graph | Jennifer Reif  | [Slides](20220224/cypher_sleuthing-Jennifer_Reif.pdf)   | [Code Sample](https://github.com/JMHReif/cypher-sleuthing) |
 | Tu changes d'emploi ? Retour d'expériences d'un développeur | Anthony Dahanne | [Slides](20220224/tu_changes_d_emploi_retour_experience_developpeur-anthony_dahanne.pdf) | [Blog post](https://blog.dahanne.net/2022/02/22/tu-changes-demploi-retour-dexperience-dun-developpeur-les-notes/) |
+| Playing in the Rain: Preparing for Incidents with Game Days | Kenn Hussey | [Slides](20220224/playing_in_the_rain-kenn_hussey.pdf) | |
 
 
 # February 25
