@@ -28,6 +28,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 # February 24
 | Presentation | Speaker Name  | Sides                                                          | Code Sample |
 |--------------|---------------|----------------------------------------------------------------|-------------|
+| Build a Real-time Pizza Tracker with Serverless | Maxime DAVID | [Slides](20220224/build_a_realtime_pizza_tracker_with_serverless-Maxime_David.pdf) | [Github](https://github.com/maxday) |
 | Getting started with InnoDB Cluster in MySQL 8 | Matthias Crauwels | [Slides](20220224/ConFoo_2022_Getting_started_with_InnoDB_cluster_in_MySQL_8.pdf) | [demo recording](https://tinyurl.com/4ef4842v) |
 | Symfony routing under the hood | David Buchmann | [Slides](2022-02-24/symfony_routing-david_buchmann.html) |
 | L'infrastucture as code pour les développeurs | Tidjani Belmansour  | [Slides](20220224/confoo2022-iac4devs-tidjanib.pdf)   | [Code Sample](https://github.com/BelRarr/confoo2022-iac4devs) |
