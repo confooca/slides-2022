@@ -23,6 +23,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | AssertTrue(isDecoupled("MyTests")) | Dave Liddament | [Slides](20220223/AssertTrue_isDecoupled_myTests-dave_liddament.pdf) | 
 | How We Introduced Automated Web App Testing in A Large Org | Gleb Bahmutov | [Slides](https://slides.com/bahmutov/testing-large-org) |
 | Real-life Database Indexing | Christophe Pettus | [Slides](20220223/database_indexing-christophe_pettus.pdf) |
+| Bicep: Infrastructure as Code for Azure Reinvented | Henry Been | [Slides](20220223/Henry_Been_Bicep_IaC_for_Azure_reinvented.pdf) |
 
 
 # February 24
@@ -54,7 +55,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Cypher Sleuthing: Tips and Tricks for Querying a Graph | Jennifer Reif  | [Slides](20220224/cypher_sleuthing-Jennifer_Reif.pdf)   | [Code Sample](https://github.com/JMHReif/cypher-sleuthing) |
 | Tu changes d'emploi ? Retour d'expériences d'un développeur | Anthony Dahanne | [Slides](20220224/tu_changes_d_emploi_retour_experience_developpeur-anthony_dahanne.pdf) | [Blog post](https://blog.dahanne.net/2022/02/22/tu-changes-demploi-retour-dexperience-dun-developpeur-les-notes/) |
 | Playing in the Rain: Preparing for Incidents with Game Days | Kenn Hussey | [Slides](20220224/playing_in_the_rain-kenn_hussey.pdf) | |
-| Build your next REST API with Symfony & API Platform | Hugo Hamon | [Slides](https://speakerdeck.com/hhamon/build-your-next-rest-api-with-symfony-and-api-platform) | |
+| Build your next REST API with Symfony & API Platform | Hugo Hamon | [Slides](https://speakerdeck.com/hhamon/build-your-next-rest-api-with-symfony-and-api-platform) | | Logging, instrumentation, dashboards, and alerts - for devs | Henry Been | [Slides](20220224/Henry_Been _Logging_instrumentation_dashboards_alerts.pdf) |
 
 
 # February 25
