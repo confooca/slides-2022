@@ -77,3 +77,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Faites du compilateur TypeScript votre meilleur ami | Benoit Lemoine | [Slides](20220225/faites_du_compilateur_typescript_votre_meilleur_ami-Benoit_Lemoine.pdf) | |
 | Partager du code entre le web et le mobile | Martin Gagnon | [Slides](20220225/Partager_du_code_entre_le_web_et_le_mobile_-_Martin_Gagnon.pdf) | |
 | Azure, AWS, and GCP, oh myy. Which cloud is right for you? | Bill Penberthy | [Slides](20220225/Azure-AWS-GCP_WhichCloudIsRightForYou-BillPenberthy.pdf) | |
+| Build your own CDN with Varnish                            | [Thijs Feryn](https://twitter.com/ThijsFeryn) | [Slides](20220225/build_your_own_cdn_with_varnish-thijs-feryn.pdf) | |
