@@ -10,7 +10,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 # February 23
 
-| Presentation                                                | Speaker Name  | Sides                                                                                  | Code Sample                                                      |
+| Presentation                                                | Speaker Name  | Slides                                                                                  | Code Sample                                                      |
 | ----------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Les 24 prochains mois | Martin Gagnon | [Slides](20220223/Les_24_prochains_mois_-_Martin_Gagnon.pdf) | |
 | Create Smart Angular Apps Using Azure Computer Vision       | Ankit Sharma  | [Slides](20220223/Smart_Angular_App-Ankit-Sharma.pdf)  | [Code Sample](https://github.com/AnkitSharma-007/Smart-Angular-App-Using-Azure-Cognitive-Services) |
@@ -24,10 +24,12 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | How We Introduced Automated Web App Testing in A Large Org | Gleb Bahmutov | [Slides](https://slides.com/bahmutov/testing-large-org) |
 | Real-life Database Indexing | Christophe Pettus | [Slides](20220223/database_indexing-christophe_pettus.pdf) |
 | Bicep: Infrastructure as Code for Azure Reinvented | Henry Been | [Slides](20220223/Henry_Been_Bicep_IaC_for_Azure_reinvented.pdf) |
+| Let's build your own VS Code automated refactorings | Nicolas Carlo | [Slides](https://bit.ly/vscode-refactorings-confoo) | [Code Sample](https://bit.ly/vscode-extension-code) |
 
 
 # February 24
-| Presentation | Speaker Name  | Sides                                                          | Code Sample |
+
+| Presentation | Speaker Name  | Slides                                                          | Code Sample |
 |--------------|---------------|----------------------------------------------------------------|-------------|
 | Build a Real-time Pizza Tracker with Serverless | Maxime DAVID | [Slides](20220224/build_a_realtime_pizza_tracker_with_serverless-Maxime_David.pdf) | [Github](https://github.com/maxday) |
 | Getting started with InnoDB Cluster in MySQL 8 | Matthias Crauwels | [Slides](20220224/ConFoo_2022_Getting_started_with_InnoDB_cluster_in_MySQL_8.pdf) | [demo recording](https://tinyurl.com/4ef4842v) |
@@ -60,6 +62,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 
 # February 25
+
 | Presentation | Speaker Name  | Slides  | Code Sample |
 |--------------|---------------|---------|-------------|
 | Internationalization in Angular | Ankit Sharma | [Slides](20220225/Angular_i18n-Ankit-Sharma.pdf) | [Code Sample](https://github.com/AnkitSharma-007/angular-localization) |
