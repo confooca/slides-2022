@@ -25,6 +25,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Real-life Database Indexing | Christophe Pettus | [Slides](20220223/database_indexing-christophe_pettus.pdf) |
 | Bicep: Infrastructure as Code for Azure Reinvented | Henry Been | [Slides](20220223/Henry_Been_Bicep_IaC_for_Azure_reinvented.pdf) |
 | Let's build your own VS Code automated refactorings | Nicolas Carlo | [Slides](https://bit.ly/vscode-refactorings-confoo) | [Code Sample](https://bit.ly/vscode-extension-code) |
+| Let's talk about JWT | [Jessica Temporal](https://jtemporal.com) | [Slides](https://slides.com/jtemporal/jwt) |  |
 
 
 # February 24
