@@ -26,6 +26,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Bicep: Infrastructure as Code for Azure Reinvented | Henry Been | [Slides](20220223/Henry_Been_Bicep_IaC_for_Azure_reinvented.pdf) |
 | Let's build your own VS Code automated refactorings | Nicolas Carlo | [Slides](https://bit.ly/vscode-refactorings-confoo) | [Code Sample](https://bit.ly/vscode-extension-code) |
 | Let's talk about JWT | [Jessica Temporal](https://jtemporal.com) | [Slides](https://slides.com/jtemporal/jwt) |  |
+| Vue.js and TypeScript: Like Peanut Butter and Jelly | [Rob Richardson](https://robrich.org) | [Slides](https://robrich.org/slides/vue-and-typescript-like-peanut-butter-and-jelly/#/) | [Code](https://github.com/robrich/vue-and-typescript-like-peanut-butter-and-jelly) |
 
 
 # February 24
@@ -60,6 +61,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Playing in the Rain: Preparing for Incidents with Game Days | Kenn Hussey | [Slides](20220224/playing_in_the_rain-kenn_hussey.pdf) |
 | Build your next REST API with Symfony & API Platform | Hugo Hamon | [Slides](https://speakerdeck.com/hhamon/build-your-next-rest-api-with-symfony-and-api-platform) | 
 | Logging, instrumentation, dashboards, and alerts for devs | Henry Been | [Slides](20220224/Henry_Been_Logging_instrumentation_dashboards_alerts.pdf) |
+| The Definitive Deep Dive into the .git Folder | [Rob Richardson](https://robrich.org/) | [Slide summary](https://gist.github.com/robrich/c0afe83910010913906e5d72bb27d748) | |
 
 
 # February 25
